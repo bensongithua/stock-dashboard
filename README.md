@@ -7,12 +7,15 @@ A Laravel 12 + MySQL project for uploading CSV stock data and visualizing top 5 
 1. Clone the repo
 
     git clone https://github.com/bensongithua/stock-dashboard.git
+
     cd stock-dashboard
 
 2. Install dependencies
 
     composer install
+
     npm install
+
     npm run dev
 
 3. Create `.env` file and configure MySQL credentials
