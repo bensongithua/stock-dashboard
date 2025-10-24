@@ -1,4 +1,4 @@
-echo "# Stock Dashboard Test Project
+# Stock Dashboard Interview Project
 
 A Laravel 12 + MySQL project for uploading CSV stock data and visualizing top 5 stock performers.
 
@@ -30,7 +30,4 @@ A Laravel 12 + MySQL project for uploading CSV stock data and visualizing top 5 
 -   Calculate and display top 5 gainers
 -   Interactive chart with Chart.js
 
----
-
 Developed by **Benson Githinga**
-"
