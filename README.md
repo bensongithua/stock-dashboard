@@ -33,7 +33,4 @@ A Laravel 12 + MySQL project for uploading CSV stock data and visualizing top 5 
 ---
 
 Developed by **Benson Githinga**
-" > README.md
-git add README.md
-git commit -m
-git push
+"
